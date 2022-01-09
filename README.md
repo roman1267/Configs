@@ -6,4 +6,4 @@ This holds my configs for my build of i3-gaps and all the dependencies. All the 
 
 ## To install:
 
-use `git pull https://github.com/roman1267/Configs.git` in your home directory to start the process. Pacman will prompt you a few times to continue; choose yes or no at your on discretion.
+use `git clone https://github.com/roman1267/Configs.git` in your home directory to start the process. Pacman will prompt you a few times to continue; choose yes or no at your on discretion.
