@@ -25,10 +25,10 @@ while true; do
 		esac
 done
 
-mkdir -p $XDG_DATA_HOME/.config/
+mkdir -p $HOME/.config/
 
-cp -v $XDG_DATA_HOME/Configs/* $XDG_DATA_HOME/.config
+cp -v $HOME/Configs/* $HOME/.config
 
-cd $XDG_DATA_HOME/.config
+cd $HOME/.config
 
 rm extrapkglist.txt; rm neededpkglist.txt; rm README.md
