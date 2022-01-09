@@ -21,7 +21,7 @@ yay --noconfirm --needed -Syu - < neededpkglist.txt
 
 read -p "Do you want the extra packages in extrapkglist.txt? [Y/n]" yn
 	case $yn in
-		"" ) yay --noconfirm --needed -Syu < ~/Configs/extrapkglist.txt;;
+		"" ) yay --noconfirm --needed -Syu - < ~/Configs/extrapkglist.txt;;
 		[Yy]* ) yay --noconfirm --needed -Syu - < ~/Configs/extrapkglist.txt;;
 		[Nn]* ) break;;
 	esac
