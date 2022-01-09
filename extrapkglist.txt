@@ -1,56 +1,56 @@
-birdtray 1.9.0-1
-brave-bin 1:1.32.113-1
-grapejuice-git 4.8.2-1
-ifuse 1.1.4-1
-joplin 2.4.12-1
-joplin-desktop 2.4.12-1
-key-mapper-git 1.2.1.r4.g1d79ad3-1
-mirage 1.0_pre2-4
-mpdevil 1.4.1-1
-polybar 3.5.7-2
-protonvpn 1.0.0-2
-protonvpn-cli 3.10.1-1
-yay-git 11.0.2.r14.g15d91e4-1
-zoom 5.8.6-1
-blueman 2.2.3-2
-bluez-tools 0.2.0-5
-bluez-utils 5.62-1
-brightnessctl 0.5.1-2
-calibre 5.34.0-2
-chntpw 140201-4
-code 1.62.0-1
-discord 0.0.16-1
-flameshot 0.10.2-2
-font-manager 0.8.7-3
-gimp 2.10.30-1
-gucharmap 14.0.1-1
-helvum 0.3.2-1
-htop 3.1.2-1
-kmines 21.12.1-1
-libreoffice-fresh 7.2.4-3
-lutris 0.5.9.1-3
-mlocate 0.26.git.20170220-7
-mpc 0.34-1
-mpd 0.23.5-1
-mpv 1:0.34.1-1
-nemo 5.0.5-1
-neofetch 7.1.0-2
-network-manager-applet 1.24.0-1
-ntfs-3g 2021.8.22-1
-p7zip 1:17.04-3
-pacutils 0.11.1-1
-pipewire-alsa 1:0.3.43-1
-qbittorrent 4.3.9-2
-redshift 1.12-5
-steam 1.0.0.74-1
-thunderbird 91.4.1-1
-tint2 17.0.2-1
-torbrowser-launcher 0.3.5-4
-unrar 1:6.1.3-1
-xdotool 3.20211022.1-1
-xorg-fonts-misc 1.0.3-10
-xorg-xev 1.2.4-1
-xorg-xinput 1.6.3-2
-yasm 1.3.0-4
-youtube-dl 2021.12.17-1
-zip 3.0-9
+birdtray
+brave-bin
+grapejuice-git
+ifuse
+joplin
+joplin-desktop
+key-mapper-git
+mirage
+mpdevil
+polybar
+protonvpn
+protonvpn-cli
+yay-git
+zoom
+blueman
+bluez-tools
+bluez-utils
+brightnessctl
+calibre
+chntpw
+code
+discord
+flameshot
+font-manager
+gimp
+gucharmap
+helvum
+htop
+kmines
+libreoffice-fresh
+lutris
+mlocate
+mpc
+mpd
+mpv
+nemo
+neofetch
+network-manager-applet
+ntfs-3g
+p7zip
+pacutils
+pipewire-alsa
+qbittorrent
+redshift
+steam
+thunderbird
+tint2
+torbrowser-launcher
+unrar
+xdotool
+xorg-fonts-misc
+xorg-xev
+xorg-xinput
+yasm
+youtube-dl
+zip
