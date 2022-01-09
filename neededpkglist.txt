@@ -20,3 +20,7 @@ vim
 polybar
 rofi
 base-devel
+xorg
+xorg-server
+i3-gaps
+xorg-xinit
