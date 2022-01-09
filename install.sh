@@ -19,7 +19,7 @@ while true; do
 	read -p "Do you want the extra packages in extrapkglist.txt? [Y/n]" yn
 		case $yn in
 			"" ) ;&
-			[Yy]* ) sudo pacman --noconfirm --needed -Syu - < extrapkglist.txt;;
+			[Yy]* ) sudo pacman --noconfirm --needed -Syu - < extrapkglist.txt; break;
 			[Nn]* ) break;;
 			* ) echo "please answer yes or no.";;
 		esac
@@ -27,7 +27,7 @@ done
 
 mkdir -p $HOME/.config/
 
-cp -v $HOME/Configs/* $HOME/.config
+cp -rv $HOME/Configs/* $HOME/.config
 
 cd $HOME/.config
 
