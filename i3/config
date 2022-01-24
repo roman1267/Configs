@@ -193,7 +193,7 @@ bindsym $mod+r mode "resize"
 ############################################
 
 # locks the screen
-bindsym $mod+shift+x exec dm-tool lock
+bindsym Modashift+x exec dm-tool lock
 
 # Audio Controls
 bindsym XF86AudioRaiseVolume exec amixer sset 'Master' 5%+
@@ -212,10 +212,10 @@ bindsym XF86AudioPrev exec playerctl previous
 
 # set screen res settings
  exec_always xrandr --output HDMI-1 --mode 1600x900 --pos 0x80 --rotate normal --output eDP-1 --mode 1920x1080 --pos 1600x0 --rotate normal
-
+ exec_always xinput map-to-output "G2Touch Multi-Touch by G2TSP" eDP-1
 # auto-run at startup
-exec --no-startup-id ~/com.todoist.Todoist 
-exec amixer set 'Master' 0
+exec --no-startup-id todoist 
+exec amixer sset 'Master' 0
 # exec_always killall tint2; tint2
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec_always picom --experimental-backends
