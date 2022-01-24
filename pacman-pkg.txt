@@ -72,6 +72,7 @@ network-manager-applet
 networkmanager
 nitrogen
 noto-fonts
+noto-fonts-emoji
 nss-mdns
 ntfs-3g
 os-prober
@@ -111,6 +112,7 @@ vulkan-intel
 wget
 wine
 xautomation
+xbindkeys
 xdotool
 xorg-fonts-misc
 xorg-server

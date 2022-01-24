@@ -1,5 +1,6 @@
 birdtray
 brave-bin
+heroic-games-launcher-bin
 grapejuice-git
 ifuse
 joplin
@@ -7,12 +8,18 @@ joplin-desktop
 key-mapper-git
 mirage
 mpdevil
+openrazer-meta-basilik
 package-query
+picom-ibhagwan-git
 polybar
 protonvpn
 protonvpn-cli
-siji-git
+razergenie
+siji-ng
+ttf-unifont
+ttf-dejavu
 upd72020x-fw
 xinput_calibrator
 yaourt
 zoom
+steam
