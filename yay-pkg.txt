@@ -18,6 +18,7 @@ razergenie
 siji-ng
 ttf-unifont
 ttf-dejavu
+ttf-symbola
 upd72020x-fw
 xinput_calibrator
 yaourt
