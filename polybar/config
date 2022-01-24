@@ -368,14 +368,14 @@ bar-volume-empty-foreground = ${colors.foreground-alt}
 
 [module/playerctl]
 type = custom/script
-exec = ~/.scripts/playerctlartist.sh
+exec = ~/.config/.scripts/playerctlartist.sh
 tail = true
 interval = 2
 label = "%{T4}%{A1:playerctl previous:}⏮   %{A}%{A1:playerctl play-pause:}⏯%{A}   %{A1:playerctl next:}⏭%{A}%{T-} | %output%"
 
 [module/pstattitle]
 type = custom/script
-exec = ~/.scripts/playerctltitle.sh
+exec = ~/.config/.scripts/playerctltitle.sh
 tail = true
 interval = 2
 label = "|   %output%"
