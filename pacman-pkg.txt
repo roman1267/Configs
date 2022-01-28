@@ -84,6 +84,7 @@ picom
 pipewire-alsa
 pkgconf
 playerctl
+qalculate
 qbittorrent
 redshift
 repo
@@ -106,6 +107,7 @@ torbrowser-launcher
 ttf-inconsolata
 ttf-linux-libertine
 unrar
+unzip
 vi
 vim
 vulkan-intel

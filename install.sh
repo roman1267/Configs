@@ -46,7 +46,9 @@ mv $HOME/.config/Snythwave $HOME/Pictures/Wallpapers
 
 ##curling xppentablet driver and picom sample conf for installed fork
 
-cd $HOME
+sudo mkdir -p $HOME/Downloads
+
+cd $HOME/Downloads
 
 touch  picom.conf xppendriver.tar.xz
 
@@ -70,6 +72,15 @@ sudo pacman -Syu --needed wine-staging giflib lib32-giflib libpng lib32-libpng l
 	sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama \
 	ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 \
 	lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader
+
+##wget osu
+
+cd $HOME/Downloads
+
+wget https://github.com/ppy/osu/releases/download/2022.128.0/osu.AppImage
+
+sudo chmod u+x osu.AppImage
+
 ##removing unnecessary files and directories
 cd $HOME/.config
 
