@@ -12,6 +12,7 @@ bison
 blueman
 bluez-tools
 bluez-utils
+blueman-manager
 brightnessctl
 calibre
 ccache
