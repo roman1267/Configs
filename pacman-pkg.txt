@@ -84,6 +84,8 @@ picom
 pipewire-alsa
 pkgconf
 playerctl
+pulseaudio-utils
+pulseaudio-bluetooth
 qalculate
 qbittorrent
 redshift
