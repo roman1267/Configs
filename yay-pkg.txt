@@ -1,4 +1,6 @@
 appimagelauncher
+arc-gtk-theme
+arc-icon-theme
 birdtray
 brave-bin
 heroic-games-launcher-bin
