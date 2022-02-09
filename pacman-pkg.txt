@@ -58,6 +58,7 @@ linux
 linux-firmware
 lutris
 lxappearance
+lxsession
 m4
 make
 man-db
